@@ -1,6 +1,8 @@
 ---
-title: Homepage
+title: "My Homepage"
+author: "Ray"
 ---
+
 ## Latex in Markdown
 
 Albert Einstein's equation $E = MC^2$
