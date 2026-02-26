@@ -1,3 +1,6 @@
+---
+title: Homepage
+---
 ## Latex in Markdown
 
 Albert Einstein's equation $E = MC^2$
